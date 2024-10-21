@@ -1,4 +1,4 @@
-# CompositorToggler
+# Compositor-Toggler
 ## A simple script to toggle KDE's Plasma compositor
 
 **What is it?**
