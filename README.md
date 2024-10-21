@@ -1,5 +1,5 @@
 # CompositorToggler
-## A simple script to toggle KDE's compositor
+## A simple script to toggle KDE's Plasma compositor
 
 **What is it?**
 - A very simple shell script that allows you to togle on/off the compositor's features to enhance performance/graphics in your system.
